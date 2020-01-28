@@ -1,5 +1,4 @@
 # get-type-of-properties-object
-set the type on the keys of object.
 
 map the keys of object to the type of values.
 
