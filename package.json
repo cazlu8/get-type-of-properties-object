@@ -1,0 +1,20 @@
+{
+  "name": "get-object-properties-types",
+  "version": "1.0.0",
+  "description": "get type of properties from object",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cazlu8/get-type-of-properties-object.git"
+  },
+  "keywords": [
+    "test",
+    "type"
+  ],
+  "author": "Lucas Reichert Siqueira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cazlu8/get-type-of-properties-object/issues"
+  },
+  "homepage": "https://github.com/cazlu8/get-type-of-properties-object#readme"
+}
